@@ -1,0 +1,278 @@
+@font-face {
+    font-family:'widy';
+    src:url('widybold.woff');
+}
+@font-face {
+    font-family: 'pixelgothic';
+    src: url('pixelgothic.woff');
+}
+
+@font-face {
+    font-family: 'apparel';
+    src: url('apparel.woff');
+}
+
+body {
+    background-color: rgb(200, 200, 200);
+}
+
+div.banner{
+    font-family:'widy';
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+}
+
+div.p1{
+    font-family: 'widy';
+    margin-top: 15px;
+    font-size: 10px;
+    width: 28%;
+    text-align: justify;
+    margin-left: 35px;
+}
+
+div.shallow{
+    font-family: 'widy';
+    width: 50%;
+    font-size: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+div.top{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div.attention{
+    font-family: 'pixelgothic';
+    font-size: 170px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+div.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div.headline{
+    margin-top: -130px;
+    font-family: 'pixelgothic';
+    font-size: 170px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 150px;
+}
+
+div.headline.a {
+    background-clip:text;
+    color: transparent;
+    background-image: linear-gradient(43deg, #ff00c8 0%, #6ed024 46%, #000000 100%);
+
+}
+
+div.headline.b {
+    background-clip:text;
+    color: transparent;
+    background-image: linear-gradient(43deg, #0022ff 0%, #ddff00 46%, #176a00 100%);
+
+}
+
+div.headline.c {
+    background-clip:text;
+    color: transparent;
+    background-image: linear-gradient(43deg, #ff6a00 0%, #ddff00 46%, #e104c7 100%);
+
+}
+
+
+
+
+
+div.feel{
+font-family:'apparel';
+font-size: 1000px;
+position: absolute;
+top: 50%;
+width: 100%;
+text-align: center;
+opacity:70%;
+color: rgb(200, 200, 200);
+line-height: 900px;
+}
+
+div.pay{
+font-size: 115px;
+position: absolute;
+top: 75%;
+right: 30%;
+width: 100%;
+text-align: center;
+color: rgb(153, 152, 152);
+line-height: 900px;
+}
+
+div.pay.a{
+opacity: 100%;
+}
+
+div.pay.b{
+opacity: 0%;
+}
+
+div.pay.c{
+opacity: 0%;
+}
+
+div.payone{
+    font-size: 115px;
+    position: absolute;
+    top: 40%;
+    right: 10%;
+    width: 100%;
+    text-align: center;
+    color: rgb(153, 152, 152);
+    line-height: 900px;
+}
+
+div.payone.a{
+    opacity: 100%;
+    }
+    
+    div.payone.b{
+    opacity: 0%;
+    }
+    
+    div.payone.c{
+    opacity: 0%;
+    }
+
+
+div.paytwo{
+    font-size: 115px;
+    position: absolute;
+    top: 150%;
+    right: 0%;
+    left: 30%;
+    width: 100%;
+    text-align: center;
+    color: rgb(153, 152, 152);
+    line-height: 900px;
+
+}
+
+div.paytwo.a{
+    opacity: 100%;
+    }
+    
+    div.paytwo.b{
+    opacity: 0%;
+    }
+    
+    div.paytwo.c{
+    opacity: 0%;
+    }
+
+    div.paythree{
+        font-size: 115px;
+        position: absolute;
+        top: 1%;
+        right: 0%;
+        left: 35%;
+        width: 100%;
+        text-align: center;
+        color: rgb(153, 152, 152);
+        line-height: 900px;
+    
+    }
+
+    div.paythree.a{
+        opacity: 100%;
+        }
+        
+        div.paythree.b{
+        opacity: 0%;
+        }
+        
+        div.paythree.c{
+        opacity: 0%;
+        }
+
+        div.payfour{
+            font-size: 115px;
+            position: absolute;
+            top: 36%;
+            right: 0%;
+            left: -15%;
+            width: 100%;
+            text-align: center;
+            color: rgb(153, 152, 152);
+            line-height: 900px;
+        
+        }
+        div.payfour.a{
+            opacity: 100%;
+            }
+            
+            div.payfour.b{
+            opacity: 0%;
+            }
+            
+            div.payfour.c{
+            opacity: 0%;
+            }
+
+            div.payfive{
+                font-size: 115px;
+                position: absolute;
+                top: 48%;
+                right: 0%;
+                left: 19%;
+                width: 100%;
+                text-align: center;
+                color: rgb(153, 152, 152);
+                line-height: 900px;
+            }
+
+            div.payfive.a{
+                opacity: 100%;
+                }
+                
+                div.payfive.b{
+                opacity: 0%;
+                }
+                
+                div.payfive.c{
+                opacity: 0%;
+                }
+
+                div.paysix{
+                    font-size: 115px;
+                    position: absolute;
+                    top: 180%;
+                    right: 0%;
+                    left: -15%;
+                    width: 100%;
+                    text-align: center;
+                    color: rgb(153, 152, 152);
+                    line-height: 900px;
+                }
+
+                div.paysix.a{
+                    opacity: 100%;
+                    }
+                    
+                    div.paysix.b{
+                    opacity: 0%;
+                    }
+                    
+                    div.paysix.c{
+                    opacity: 0%;
+                    }

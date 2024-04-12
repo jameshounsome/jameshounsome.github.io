@@ -1,0 +1,277 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+img{
+    width: 100%;
+}
+
+div.pin{
+    transition: 1s ;
+}
+
+div.background {
+    display: flex;
+width:50%;
+}
+
+div.blue {
+position: absolute;
+top: 1%;
+right: 50%;
+width: 40%;
+line-height: 900px;
+}
+
+div.shadow {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    width: 108%;
+    line-height: 900px;
+}
+
+div.pixelsmall {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    width: 108%;
+    line-height: 900px;
+}
+
+div.pixelmed {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    width: 108%;
+    line-height: 900px;
+}
+div.pixelmed.a{
+    opacity: 100%;
+    }
+    div.pixelmed.b{
+        opacity: 0%;
+    }
+    div.pixelmed.c{
+        opacity: 0%;
+    }
+
+    div.pixelmed.d{
+        opacity: 0%;   
+    }
+
+    div.pixelmed.e{
+        opacity: 0%;   
+    }
+
+div.pixellarge {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    width: 108%;
+    line-height: 900px;
+}
+
+div.pixellarge.a{
+    opacity: 100%;
+    }
+    div.pixellarge.b{
+        opacity: 0%;
+    }
+    div.pixellarge.c{
+        opacity: 0%;
+    }
+
+    div.pixellarge.d{
+        opacity: 0%;   
+    }
+
+    div.pixellarge.e{
+        opacity: 0%;   
+    }
+
+div.scroll {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    width: 6.4%;
+    line-height: 900px;
+}
+
+div.pin {
+    position: absolute;
+    right: 1.4%;
+    width: 4%;
+    line-height: 900px;
+}
+
+div.pin.a {
+    top: 45%;
+}
+
+div.pin.b {
+    top: 78%;
+}
+
+div.pin.c {
+    top: 120%;
+}
+
+div.pin.d {
+    top: 162%;
+}
+
+div.pin.e {
+    top: 180%;
+}
+
+
+
+div.payone {
+    position: absolute;
+    top: 30%;
+    right: 60%;
+    width: 15%;
+    line-height: 900px;
+}
+
+div.payone.a{
+opacity: 100%;
+}
+div.payone.b{
+    opacity: 0%;
+}
+div.payone.c{
+    opacity: 0%;
+}
+
+div.paytwo {
+    position: absolute;
+    top: 38%;
+    right: 70%;
+    width: 15%;
+    line-height: 900px;
+}
+
+div.paytwo.a{
+    opacity: 100%;
+    }
+    div.paytwo.b{
+        opacity: 0%;
+    }
+    div.paytwo.c{
+        opacity: 0%;
+    }
+
+div.paythree {
+    position: absolute;
+    top: 62%;
+    right: 12%;
+    width: 15%;
+    line-height: 900px;
+}
+
+div.paythree.a{
+    opacity: 100%;
+    }
+    div.paythree.b{
+        opacity: 0%;
+    }
+    div.paythree.c{
+        opacity: 0%;
+    }
+
+div.payfour {
+    position: absolute;
+    top: 70%;
+    right: 52%;
+    width: 15%;
+    line-height: 900px;
+}
+
+div.payfour.a{
+    opacity: 100%;
+    }
+    div.payfour.b{
+        opacity: 0%;
+    }
+    div.payfour.c{
+        opacity: 0%;
+    }
+
+div.payfive {
+    position: absolute;
+    top: 175%;
+    right: 45%;
+    width: 15%;
+    line-height: 900px;
+}
+
+div.payfive.a{
+    opacity: 100%;
+    }
+    div.payfive.b{
+        opacity: 0%;
+    }
+    div.payfive.c{
+        opacity: 0%;
+    }
+
+div.paysix {
+    position: absolute;
+    top: 125%;
+    right: 28%;
+    width: 15%;
+    line-height: 900px; 
+}
+
+div.paysix.a{
+    opacity: 100%;
+    }
+    div.paysix.b{
+        opacity: 0%;
+    }
+    div.paysix.c{
+        opacity: 0%;
+    }
+
+div.payseven {
+    position: absolute;
+    top: 130%;
+    right: 20%;
+    width: 15%;
+    line-height: 900px; 
+}
+
+div.payseven.a{
+    opacity: 100%;
+    }
+    div.payseven.b{
+        opacity: 0%;
+    }
+    div.payseven.c{
+        opacity: 0%;
+    }
+
+div.payeight {
+    position: absolute;
+    top: 110%;
+    right: 2%;
+    width: 15%;
+    line-height: 900px; 
+
+}
+
+div.payeight.a{
+    opacity: 100%;
+    }
+    div.payeight.b{
+        opacity: 0%;
+    }
+    div.payeight.c{
+        opacity: 0%;
+    }
+
+
+
+
