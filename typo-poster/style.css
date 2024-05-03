@@ -276,3 +276,23 @@ div.paytwo.a{
                     div.paysix.c{
                     opacity: 0%;
                     }
+
+
+div.grid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div.col {
+    width: 20%;
+}
+
+div.dash {
+    width: 100%;
+    border-bottom:2px dashed black;
+}
+
+div.tar {
+    text-align: right;
+}
