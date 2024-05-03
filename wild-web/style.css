@@ -3,7 +3,7 @@
 body {
     background-color: white;
     color: black;
-    margin: 0px;
+    margin: 10px;
     padding: 0px;
     font-size: 20px;
     line-height: 21px;
@@ -25,8 +25,8 @@ div.largetext {
 }
 
 div.mediumtext {
-    font-size: 50px;
-    line-height: 50px;
+    font-size: 27px;
+    line-height: 32px;
 }
 
 div.smalltext {
@@ -108,3 +108,20 @@ div.w20 {
 
 /* design */
 
+div.side {
+    margin-left: auto;
+}
+
+div.title {
+    margin-top: 200px;
+    margin-bottom: 200px;
+    text-align: center;
+}
+
+div.p5 {
+    padding: 5px;
+}
+
+div.m50{
+    margin: 50px;
+}
